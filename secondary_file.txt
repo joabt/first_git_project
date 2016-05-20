@@ -1,2 +1,8 @@
 Explore California - Contacts
 This is the second file that I have added to my project.
+
+Change 1
+Change 2
+Change 3
+
+
