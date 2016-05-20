@@ -1,4 +1,4 @@
-Title: First File
+Title - First File
 
 This is the first file added to my project.
 
